@@ -49,6 +49,7 @@
 - Watching F1
 - Spending time in nature
 - Personal growth / development
+- Traveling
 
 ## How to reach me? 📢
 - See my [Linktree profile](https://linktr.ee/stefanprokopdev) or use an email: stefan@stefanprokop.dev
