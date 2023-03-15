@@ -20,12 +20,19 @@
 # Hey :wave: I am Štefi!
 
 ## What do I do? 👷‍♂️
-- **Freelance Security First Backend & Solana Developer**
+- **Freelance Cybersecurity and Software Development Consultant**
+- I am focused on application security.
+- I can help you to protect your data, online activities and software and I will teach you how to do it.
+- I can help you to optimize or set processes in your IT / Dev department (I am like CTO / Head of Dev as a Service).
+- I will design and create a secure web application and API.
 - Node.js | JS | TS | Rust
-- (not only) technical writer and technology researcher
-- Interested in developer relations (DevRel)
-- Interested in HR and recruiting
-  - I have my own product called [Nigel Onboarding](https://nigel-onboarding.com/) which is employee onboarding chatbot for Slack
+- Interested in developer relations (DevRel) / developer marketing
+
+## Bezpečný kód
+- I am a founder of cybersecurity e-learning project [Bezpečný kód](https://bezpecnykod.cz) (Czech project).
+- The goal of the project is to help developers, testers and other participants to design and create a secure software.
+- All the e-learning materials (cheat sheets, checklists etc.) are simple, short, easy to use and easy to apply.
+- I write a [newsletter](https://bezpecnykod.cz/newsletter) each month about the cybersecurity topics for free.
 
 ## What do I like? 😍
 - Public speaking
@@ -52,4 +59,4 @@
 - Traveling
 
 ## How to reach me? 📢
-- See my [Linktree profile](https://linktr.ee/stefanprokopdev) or use an email: stefan@stefanprokop.dev
+- Please use an email: stefan@stefanprokop.dev
