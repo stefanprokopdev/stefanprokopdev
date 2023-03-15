@@ -1,5 +1,5 @@
-<a href="https://linktr.ee/stefanprokopdev" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=Linktree&color=9cf" />
+<a href="https://www.linkedin.com/in/stefanprokopdev/" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=9cf" />
 </a>
 <a href="https://stackshare.io/stefanprokopdev" target="_blank">
   <img src="https://img.shields.io/static/v1?label=&message=StackShare&color=blue" />
@@ -12,9 +12,6 @@
 </a>
 <a href="https://twitter.com/stefanprokopdev" target="_blank">
   <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=blue" />
-</a>
-<a href="https://www.linkedin.com/in/stefanprokopdev/" target="_blank">
-  <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=9cf" />
 </a>
 
 # Hey :wave: I am Štefi!
